@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Shuck",
+			"dbtg",
+			[
+				140,
+				80,
+				40
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Awh Shucks!",
+	"weekName": "Awh Shucks",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

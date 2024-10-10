@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "DETG_IDLE"
+		},
+		{
+			"offsets": [
+				20,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "DETG_LEFT"
+		},
+		{
+			"offsets": [
+				30,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DETG_DOWN"
+		},
+		{
+			"offsets": [
+				177,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "DETG_RIGHT"
+		},
+		{
+			"offsets": [
+				260,
+				589
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "DETG_UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/other/shuck/dbtg",
+	"position": [
+		80,
+		-180
+	],
+	"healthicon": "dbtg",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		105,
+		34
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
