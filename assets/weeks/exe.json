@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"too slow",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"you cant run",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"triple trouble",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "VS EXE",
+	"weekName": "VS EXE",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
